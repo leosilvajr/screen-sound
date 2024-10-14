@@ -1,4 +1,4 @@
-﻿namespace ScreenSound;
+﻿namespace ScreenSound.Models;
 class Banda
 {
     private List<Album> albuns = new List<Album>();
