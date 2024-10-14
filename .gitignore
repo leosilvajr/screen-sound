@@ -1,13 +1,56 @@
-# Created by https://www.toptal.com/developers/gitignore/api/dotnetcore
-# Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore
+# Criado em https://www.toptal.com/developers/gitignore/api/dotnetcore
+# Editado para projetos de console C#
 
 ### DotnetCore ###
-# .NET Core build folders
+# Pastas de build do .NET Core
 bin/
 obj/
 
-# Common node modules locations
-/node_modules
-/wwwroot/node_modules
+# Arquivos temporários do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.csproj.user
 
-# End of https://www.toptal.com/developers/gitignore/api/dotnetcore
+# Arquivos de backup
+*_backup*/
+
+# Arquivos de log
+*.log
+
+# Pacotes e dependências
+packages/
+node_modules/
+
+# Configurações locais de IDE
+.idea/
+*.sln.docstates
+
+# Arquivos de publicação
+publish/
+
+# Cache do NuGet
+**/project.lock.json
+*.nupkg
+.nuget/
+
+# Arquivos gerados por build
+*.dll
+*.exe
+*.app
+
+# Arquivos de banco de dados locais
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Arquivos de pacote temporários
+*.tmp
+*.temp
+*.bak
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

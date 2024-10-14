@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound
 {
-    public static class Constantes
+    internal static class Constantes
     {
         public static string LOGO = @"
 

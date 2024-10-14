@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\ScreenSound\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,58 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Constantes.cs",
-              "DocumentMoniker": "C:\\Git\\ScreenSound\\Constantes.cs",
-              "RelativeDocumentMoniker": "Constantes.cs",
-              "ToolTip": "C:\\Git\\ScreenSound\\Constantes.cs",
-              "RelativeToolTip": "Constantes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:44:52.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Banda.cs",
-              "DocumentMoniker": "C:\\Git\\ScreenSound\\Models\\Banda.cs",
-              "RelativeDocumentMoniker": "Models\\Banda.cs",
-              "ToolTip": "C:\\Git\\ScreenSound\\Models\\Banda.cs",
-              "RelativeToolTip": "Models\\Banda.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:42:31.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Git\\ScreenSound\\Models\\Album.cs",
-              "RelativeDocumentMoniker": "Models\\Album.cs",
-              "ToolTip": "C:\\Git\\ScreenSound\\Models\\Album.cs",
-              "RelativeToolTip": "Models\\Album.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:38:37.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Git\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:35:34.462Z",
-              "EditorCaption": ""
             }
           ]
         },
