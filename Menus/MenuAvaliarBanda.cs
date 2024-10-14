@@ -7,7 +7,7 @@ namespace ScreenSound.Menus
         public override void Executar(Dictionary<string, Banda> bandasRegistradas)
         {
             base.Executar(bandasRegistradas);
-            ExibirTituloDaOpcao("Avaliar banda");
+            ExibirTituloDaOpcao("Avaliar Banda");
             Console.Write("Digite o nome da banda que deseja avaliar: ");
             string nomeDaBanda = Console.ReadLine()!;
             if (bandasRegistradas.ContainsKey(nomeDaBanda))

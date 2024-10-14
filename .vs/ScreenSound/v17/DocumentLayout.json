@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\ScreenSound\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|c:\\git\\screensound\\models\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41761C6E-9FD7-40C1-BABF-EEA328C25574}|ScreenSound.csproj|solutionrelative:models\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +51,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:40:21.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:33:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRegistrarAlbum.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuRegistrarAlbum.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeToolTip": "Menus\\MenuRegistrarAlbum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:17.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuAvaliarAlbum.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeDocumentMoniker": "Menus\\MenuAvaliarAlbum.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeToolTip": "Menus\\MenuAvaliarAlbum.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:25:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:22:47.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAvaliavel.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Models\\IAvaliavel.cs",
+              "RelativeDocumentMoniker": "Models\\IAvaliavel.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Models\\IAvaliavel.cs",
+              "RelativeToolTip": "Models\\IAvaliavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:13:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\Models\\Banda.cs",
+              "RelativeDocumentMoniker": "Models\\Banda.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\Models\\Banda.cs",
+              "RelativeToolTip": "Models\\Banda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:10:00.478Z",
+              "EditorCaption": ""
             }
           ]
         },
