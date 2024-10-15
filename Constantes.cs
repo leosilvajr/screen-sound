@@ -2,6 +2,7 @@
 {
     internal static class Constantes
     {
+        public static string APY_KEY = "{INSIRA AQUI UM TOKEN VÁLIDO COM CRÉDITOS}";
         public static string LOGO = @"
 
 ░██████╗░█████╗░██████╗░███████╗███████╗███╗░░██╗  ░██████╗░█████╗░██╗░░░██╗███╗░░██╗██████╗░

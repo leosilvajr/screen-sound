@@ -1,10 +1,13 @@
 ﻿using ScreenSound;
 using ScreenSound.Menus;
 using ScreenSound.Models;
+using OpenAI_API;
+
 internal class Program
 {
     private static void Main(string[] args)
     {
+
         Banda ira = new Banda("Ira");
         ira.AdicionarNota(new Avaliacao(10));
         ira.AdicionarNota(new Avaliacao(8));

@@ -13,6 +13,7 @@ namespace ScreenSound.Menus
             if (bandasRegistradas.ContainsKey(nomeDaBanda))
             {
                 Banda banda = bandasRegistradas[nomeDaBanda];
+                Console.WriteLine(banda.Resumo);
                 Console.WriteLine($"\nA média da banda {nomeDaBanda} é {banda.Media}.");
 
                 Console.WriteLine($"\nDiscografia");
