@@ -61,7 +61,10 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("Opção inválida");
+                Console.WriteLine("Opção inválida, tente novamente.");
+                Thread.Sleep(2000);
+                Console.Clear();
+                ExibirOpcoesDoMenu();
             }
         }
         ExibirOpcoesDoMenu();
