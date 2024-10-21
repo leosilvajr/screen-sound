@@ -33,6 +33,7 @@ internal class Program
         void ExibirLogo()
         {
             Console.WriteLine(Constantes.LOGO);
+
             Console.WriteLine("Boas vindas ao Screen Sound 2.0!");
         }
 
