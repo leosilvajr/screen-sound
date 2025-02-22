@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound", "ScreenSound.csproj", "{41761C6E-9FD7-40C1-BABF-EEA328C25574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundDesktop", "..\ScreenSoundDesktop\ScreenSoundDesktop.csproj", "{0DE0D44D-0FB7-4098-B7AA-588DBB474784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{41761C6E-9FD7-40C1-BABF-EEA328C25574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41761C6E-9FD7-40C1-BABF-EEA328C25574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41761C6E-9FD7-40C1-BABF-EEA328C25574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE0D44D-0FB7-4098-B7AA-588DBB474784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE0D44D-0FB7-4098-B7AA-588DBB474784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE0D44D-0FB7-4098-B7AA-588DBB474784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE0D44D-0FB7-4098-B7AA-588DBB474784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
