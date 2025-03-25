@@ -14,7 +14,7 @@
 ## Estrutura do Projeto
 
 ### 1. **`Program.cs`**
-   O arquivo principal que inicia o projeto e chama as funcionalidades contidas na classe `Services`. Utiliza um dicionário (`Dictionary<string, List<int>>`) para armazenar as bandas e suas avaliações.
+   O arquivo principal que inicia o projeto e chama as funcionalidades contidas na classe `Services`. Utiliza um dicionario (`Dictionary<string, List<int>>`) para armazenar as bandas e suas avaliações.
 
 ### 2. **Namespace `Services`**
    Aqui estão os métodos que realizam as principais ações do sistema:
